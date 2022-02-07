@@ -1,14 +1,16 @@
-<p align="center"><img align="center" src="https://github.com/BlueFalconHD/BlueFalconHD/blob/main/circle-cropped%20(2).png"></p>
-<h1 align="center">BlueFalconHD</p>
-<h2 align="center">Developer</p>
+# 💫 BlueFalconHD 🗣
 
+### About Me:
+- developer 🖥
+- experienced in: 📘
+  - python 🐍
+  - javascript ☕
+  - c# 📡
+  - typescript 🤖
+  - pulpscript 🎮
+- him/he ♂
+- loves green day 🎧
 
-------
-
-## My projects...
-
-- Box Generator
-  - https://github.com/BlueFalconHD/Unicode-Box-Generator
-- ReadMe Icon Library
-  - https://github.com/BlueFalconHD/README-icon-library
-
+### My projects
+<h4 align="center">👷 Readme under construction. 🏗</h5>
+ 
