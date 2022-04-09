@@ -1,6 +1,6 @@
 ![Logo: BLUE.EXE... BlueFalconHD](https://github.com/BlueFalconHD/BlueFalconHD/blob/main/intro-once.gif?raw=true)
 
-<p align="center">
+<!--<p align="center">-->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=bluefalconhd&theme=synthwave" href="https://github.com/anuraghazra/github-readme-stats" align="right">
@@ -30,7 +30,7 @@
 
 -----
 
-</p>
+
 
 
 <!--
