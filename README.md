@@ -4,7 +4,9 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=bluefalconhd&theme=synthwave" href="https://github.com/anuraghazra/github-readme-stats" align="right">
-&nsbp;
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluefalconhd&theme=synthwave&card_width=495" href="https://github.com/anuraghazra/github-readme-stats" align="right">
 
 <h1>💫 BlueFalconHD 🗣</h1>
@@ -23,6 +25,7 @@
   <li>him/he ♂</li>
   <li>loves green day, juice wrld, and trippie red 🎧</li> 
 </ul>
+<br>
  
   
 
