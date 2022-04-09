@@ -1,4 +1,4 @@
-![Logo: BLUE.EXE... BlueFalconHD](https://github.com/BlueFalconHD/BlueFalconHD/blob/dev/intro-once.gif?raw=true)
+![Logo: BLUE.EXE... BlueFalconHD](https://github.com/BlueFalconHD/BlueFalconHD/blob/main/intro-once.gif?raw=true)
 
 <p align="center">
 
