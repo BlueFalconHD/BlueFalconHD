@@ -4,37 +4,26 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=bluefalconhd&theme=synthwave" href="https://github.com/anuraghazra/github-readme-stats" align="right">
+&nsbp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluefalconhd&theme=synthwave&card_width=495" href="https://github.com/anuraghazra/github-readme-stats" align="right">
 
-
-
-
-# 💫 BlueFalconHD 🗣
-
-### About Me:
-- developer 🖥
-- experienced in: 📘
-  - python 🐍
+<h1>💫 BlueFalconHD 🗣</h1>
+<h3>About Me:<h3>
+<ul>
+  <li>developer 🖥</li>
+  <li>experienced in: 📘</li>
+  <ul>
+    <li>python 🐍</li>
+    <li>javascript ☕</li>
+    <li>c sharp 📡</li>
+    <li>typescript 🤖</li>
+    <li>pulpscript 🎮</li>
+    <li>more to come 🕔</li>
+  </ul>
+  <li>him/he ♂</li>
+  <li>loves green day, juice wrld, and trippie red 🎧</li> 
+</ul>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluefalconhd&theme=synthwave&card_width=495" href="https://github.com/anuraghazra/github-readme-stats" align="right">
-
   
-  - javascript ☕
-  - c sharp 📡
-  - typescript 🤖
-  - pulpscript 🎮
-  - more to come 🕔
-- him/he ♂
-- loves green day, juice wrld, and trippie red 🎧
-<br>
-
 
 -----
-
-
-
-
-<!--
-
-
- 
--->
