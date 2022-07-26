@@ -24,7 +24,7 @@
     <li>more to come 🕔</li>
   </ul>
   <li>him/he ♂</li>
-  <li>loves green day, juice wrld, and trippie red 🎧</li> 
+  <li>loves anything on `vibes right now` 🎧</li> 
 </ul>
 <br>
  
