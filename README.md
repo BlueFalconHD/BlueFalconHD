@@ -1,4 +1,8 @@
 # Hey! I am Blue!
+
+[![@bluefalconhd's Holopin board](https://holopin.me/bluefalconhd)](https://holopin.io/@bluefalconhd)
+> **Note**: This is my badge board for holopin
+
 ## I do some things:
 - React 
 - HTML
