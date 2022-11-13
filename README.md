@@ -20,11 +20,11 @@
 - Modal editing e.g. Nvim
 - Turing Complete things that shouldn't be turing complete
 ## I want to do some things:
-- C# for gamedev
-- C++ for credit
-- get good at rust
-- angular
-- nextjs
+- [ ] C# for gamedev
+- [x] C++ for credit
+- [ ] get good at rust
+- [ ] angular
+- [x] nextjs
 ## I have done some things:
 > **Note**: I don't open source most of my code as most of it is unfinished sideprojects.
 - Tatertot
