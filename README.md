@@ -5,6 +5,8 @@
 
 ## I do some things:
 - React 
+- NextJS
+- Golang
 - HTML
 - CSS
 - Python
