@@ -1,60 +1,23 @@
 [![@bluefalconhd's Holopin board](https://holopin.me/bluefalconhd)](https://holopin.io/@bluefalconhd)
 
-<h3 align="center"> hey I'm blue. I do random stuff on the internet, and I love computer science. </h3>
+# Hey, I'm Blue 👋
 
+Welcome to my GitHub sanctuary. If you're here, you're probably a bit like me— curious, passionate about code, and always on the hunt for the next thing to learn. I live in the US, and my days are filled with code, books, and learning.
 
+You know, I've always found something poetic about programming. The way characters dance across the screen, forming strings and loops, it's almost like a language all its own. Speaking of languages, I've dabbled in quite a few: Go, JavaScript, TypeScript, C, C#, C++, Swift, Java, and Kotlin.
 
+So go ahead, explore my repositories, fork them, star them, or contribute. Let's make the digital world a little more interesting, shall we?
 
-- english
-- latin
-- javascript
-- typescript
-- lua
-- go
-- swift
-- python
-- c++
-- asm
+---
 
-<details>
-  <summary>Skills</summary>
+Feel like connecting? I'm just a tweet or an email away. Or, you know, just open an issue in one of my repos. Conversations are the best way to grow, after all.
 
-  <details>
-    <summary>Programming Languages</summary>
-    <span>
-      <kbd><br> javascript <br><br></kbd> 
-      <kbd><br> typescript <br><br></kbd> 
-      <kbd><br> lua <br><br></kbd> 
-      <kbd><br> go <br><br></kbd> 
-      <kbd><br> swift <br><br></kbd> 
-      <kbd><br> python <br><br></kbd> 
-      <kbd><br> c++ <br><br></kbd> 
-      <kbd><br> asm <br><br></kbd> 
-    </span>
-  </details>
+- **Twitter**: [@bluefalconhd_gh](https://twitter.com/bluefalconhd_gh)
+- **Email**: [hjdombro@icloud.com](mailto:hjdombro@icloud.com)
 
-  <details>
-    <summary>Tools</summary>
-    <kbd><br> xcode <br><br></kbd> 
-    <kbd><br> intellij ides <br><br></kbd> 
-    <kbd><br> nvim <br><br></kbd> 
-    <kbd><br> docker <br><br></kbd> 
-    <kbd><br> nix <br><br></kbd> 
-    <kbd><br> linux <br><br></kbd> 
-    <kbd><br> macos <br><br></kbd> 
-  </details>
-</details>
+---
 
-<!--
-<details>
-  <summary>
-    Tags
-  </summary>
+From Blue, with 💙
 
-  <span>
-    <kbd><br> BlueFalconHD <br><br></kbd> 
-    <kbd><br> she/her <br><br></kbd> 
-    <kbd><br> 🏳️‍⚧️ asexual <br><br></kbd>
-  </span>
-</details>
->
+> Capitalism is a razor scooter  
+> and i am but an ankle
