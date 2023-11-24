@@ -10,7 +10,7 @@ So go ahead, explore my repositories, fork them, star them, or contribute. Let's
 
 ---
 
-Feel like connecting? I'm just a tweet or an email away. Or, you know, just open an issue in one of my repos. Conversations are the best way to grow, after all.
+Feel like connecting? I'm just an email away. Or, you know, just open an issue in one of my repos. Conversations are the best way to grow, after all.
 
 <!-- - **Twitter**: [@bluefalconhd_gh](https://twitter.com/bluefalconhd_gh) -->
 - **Email**: [hjdombro@icloud.com](mailto:hjdombro@icloud.com)
