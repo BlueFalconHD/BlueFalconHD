@@ -19,5 +19,7 @@ Feel like connecting? I'm just an email away. Or, you know, just open an issue i
 
 From Blue, with 💙
 
+<!--
 > Capitalism is a razor scooter  
 > and i am but an ankle
+-->
