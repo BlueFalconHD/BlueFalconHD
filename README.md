@@ -1,25 +1,8 @@
-[![@bluefalconhd's Holopin board](https://holopin.me/bluefalconhd)](https://holopin.io/@bluefalconhd)
+e-mail me at `hjdombro [@] icloud [.] com` <br>
+the address is split up to prevent scraping bots
 
-# Hey, I'm Blue 👋
+most of my work is basic and unfinished. I am dedicated to making larger, more thought out projects, so I have compiled a list of those which are in the works. the items in the list will become hyperlinks when the project is made public.
 
-Welcome to my GitHub sanctuary. If you're here, you're probably a bit like me— curious, passionate about code, and always on the hunt for the next thing to learn. I live in the US, and my days are filled with code, books, and learning.
-
-You know, I've always found something poetic about programming. The way characters dance across the screen, forming strings and loops, it's almost like a language all its own. Speaking of languages, I've dabbled in quite a few: Go, JavaScript, TypeScript, C, C#, C++, Swift, Java, and Kotlin.
-
-So go ahead, explore my repositories, fork them, star them, or contribute. Let's make the digital world a little more interesting, shall we?
-
----
-
-Feel like connecting? I'm just an email away. Or, you know, just open an issue in one of my repos. Conversations are the best way to grow, after all.
-
-<!-- - **Twitter**: [@bluefalconhd_gh](https://twitter.com/bluefalconhd_gh) -->
-- **Email**: [hjdombro@icloud.com](mailto:hjdombro@icloud.com)
-
----
-
-From Blue, with 💙
-
-<!--
-> Capitalism is a razor scooter  
-> and i am but an ankle
--->
+- `ardubasic` interpreted bytecode language compiled from an ASM-like syntax designed to run on embedded hardware
+- `connexa` node based simulation engine for the web
+    - `fluit` digital logic simulation
